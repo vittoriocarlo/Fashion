@@ -10,3 +10,4 @@ function burguerButton() {
 		$navSecond.classList.add('is-active');
 	}
 }
+
