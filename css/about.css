@@ -68,6 +68,18 @@ body {
 	font-size: 35px;
 }
 
+.top-button {
+	display: inline-block;
+	font-size: 40px;
+	color:#DA6A3C;
+	cursor:pointer;
+	position:fixed;
+	bottom:20px;
+	right:20px;
+	z-index: 3;
+
+}
+
 
 .nav-second {
 	margin-top: 1.5em;
